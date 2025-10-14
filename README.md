@@ -1,5 +1,36 @@
-# FlappyBird
+# Flappy Bird Clone (Unity)
 
+A simple clone of the classic Flappy Bird made in Unity using C#.
+
+##  Play Now
+ [Play on Itch.io](https://vignesh53612gmailcom.itch.io/flappybird)
+
+##  Built With
+- Unity 6
+- C#
+- 2D Physics, Colliders, and UI
+
+##  Features
+- Tap/Click to fly mechanics
+- Randomized pipe generation
+- Scoring system
+- Game Over and Restart logic
+- Pause/Resume functionality
+- WebGL build playable online
+
+
+##  What I Learned
+- Implementing Unity physics & collision detection  
+- Using prefabs & layers effectively  
+- UI score updates and time scaling  
+
+##  Future Improvements
+- Add background music & sound effects  
+- Improve visuals with animations  
+- Add difficulty levels  
+- Add a leaderboard or high score system  
+
+## Script Overview 
 ### 1. Creating  Input-Action & Generating script
 ![alt text](outputs/image.png)!
 ![alt text](outputs/image-1.png)
@@ -137,13 +168,4 @@ when player hit the pipe or ground game need to stop or restart
 
 #
 ### Output 
-1. image    
 ![alt text](outputs/image-7.png)
-
-2. video   
-
-<video controls src="flappy.mp4" title="Title"></video>
-
-3. webGl game link   
-
-https://vignesh53612gmailcom.itch.io/flappybird
